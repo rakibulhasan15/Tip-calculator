@@ -1,4 +1,4 @@
 # Tip-calculator
 ### Project view
-<img src="./project screenshot.jpg">
+<img src="./screenshot.png">
 Tip calculator has been created with vanilla javascript.
